@@ -7,3 +7,5 @@ Ultrasonic Sensor &amp; GSM module
 
 click here to access research paper ---> https://drive.google.com/file/d/1OouyiSH2qd1bU6ukuYca3WX21Aq6qxoh/view?usp=sharing
 
+---
+PRESENTATION: https://canva.link/5oy38iszhxp3a0i
